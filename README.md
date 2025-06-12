@@ -9,7 +9,7 @@
 <h2>Overview</h2>
 <p>This repository consolidates multiple components essential for modern machine learning pipelines focused on anomaly detection and classification with imbalanced datasets:</p>
 <ul>
-  <li><strong>Anomaly Detection Models:</strong> Implementations include Isolation Forest, Local Outlier Factor, One-Class SVM, Elliptic Envelope, and Autoencoders with flexible hyperparameter configurations.</li>
+  <li><strong>Anomaly Detection Models:</strong> Implementations include Isolation Forest, Local Outlier Factor and One-Class SVM with flexible hyperparameter configurations.</li>
   <li><strong>Deep Neural Network (DNN):</strong> Code for designing, training, and evaluating custom neural networks tailored for complex data patterns.</li>
   <li><strong>Sampling Strategies:</strong> Efficient methods for undersampling majority classes and oversampling minority classes using SMOTE to mitigate class imbalance.</li>
   <li><strong>Environment Setup:</strong> <code>requirements.txt</code> to replicate the Python environment seamlessly.</li>
