@@ -1,0 +1,7 @@
+tensorflow==1.15
+pandas
+matplotlib
+imbalanced-learn
+sklearn
+numpy
+seaborn
